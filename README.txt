@@ -1,6 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
+This is only for testing
 
  * About Drupal
  * Configuration and features
