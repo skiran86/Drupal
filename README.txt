@@ -1,6 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
+Another update
 This is only for testing
 
  * About Drupal
