@@ -3,6 +3,7 @@ CONTENTS OF THIS FILE
 ---------------------
 Another update
 This is only for testing
+Just another test
 
  * About Drupal
  * Configuration and features
