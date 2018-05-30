@@ -1,6 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
+testing shell script#7
 testing shell script#6
 testing shell script#5
 testing shell script#4
