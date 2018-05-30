@@ -1,6 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
+testing shell script#2
 testing shell script#1
 testing on 5/29
 Another update
